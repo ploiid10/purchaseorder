@@ -1,0 +1,12 @@
+{
+    "name": "ploiid/purchaseorder",
+    "description": "PHPFirestore",
+    "type": "project",
+    "license": "GNU3",
+    "minimum-stability": "dev",
+    "require": {
+        "google/cloud-firestore": "dev-master",
+        "google/cloud-storage": "dev-master",
+        "superbalist/flysystem-google-storage": "^1.0@dev"
+    }
+}
